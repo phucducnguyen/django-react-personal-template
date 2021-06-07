@@ -1,0 +1,7 @@
+.vscode
+frontend/static
+frontend/node_modules
+env/
+package-lock.json
+*.sqlite3
+__pycache__
