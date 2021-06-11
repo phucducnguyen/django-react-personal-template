@@ -280,7 +280,7 @@ ReactDOM.render(
 Open 2 terminals:
 1. First terminal: 
 ```bash
-$npm run device
+$npm run dev
 ```
 2. Second terminal:
 ```bash
